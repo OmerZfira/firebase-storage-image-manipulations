@@ -1,0 +1,14 @@
+{
+	"ORIGINAL_IMAGE_IDENTIFIER": "_xoriginal",
+	"IMAGE_SIZES": {
+		"small": {
+			"width": 450
+		},
+		"medium": {
+			"width": 700
+		},
+		"large": {
+			"width": 1200
+		}
+	}
+}
